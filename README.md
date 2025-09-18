@@ -1,5 +1,9 @@
 # 2025年《资本论》第三卷读书会资料库
 ## 下载说明（关于 Git LFS）
+
+
+（实在搞不懂怎么操作的话，等我更新Releases。2025年9月18日夜。）
+
 本仓库包含部分大文件（PDF 超过 50MB），使用了 [Git Large File Storage (LFS)](https://git-lfs.github.com/)。  
 如果直接点击 **Download ZIP** 或普通 `git clone`，你可能会得到只有 1KB 的“指针文件”，而不是实际的 PDF。
 
