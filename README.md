@@ -1,29 +1,12 @@
 # 2025年《资本论》第三卷读书会资料库
 ## 下载说明（关于 Git LFS）
 
-
-（实在搞不懂怎么操作的话，等我更新Releases。2025年9月18日夜。）
-
 本仓库包含部分大文件（PDF 超过 50MB），使用了 [Git Large File Storage (LFS)](https://git-lfs.github.com/)。  
 如果直接点击 **Download ZIP** 或普通 `git clone`，你可能会得到只有 1KB 的“指针文件”，而不是实际的 PDF。
+  
+需要说明的是，GitHub 对 LFS 的推送、拉取及存储均设有限额，这在文件共享上并不十分便利。  
 
-### 正确的获取方式
-
-1. **安装 Git LFS**  
-   - Windows / macOS 用户请参考官网 [Git LFS 安装指南](https://git-lfs.github.com/)  
-   - Linux 用户可以通过包管理器安装，例如：  
-     ```bash
-     sudo apt-get install git-lfs
-     ```
-
-2. **初始化 Git LFS（只需一次）**  
-   ```bash
-   git lfs install
-   ```
-
-3. **克隆仓库**
-   ```bash
-   git clone https://github.com/BH4FVB/Das-Kapital-Volume-III.git
+因此，我将尽快将这些文件打包发布为 **发行版（GitHub Release）**，以便大家更方便地下载和使用。
 
 ## 关于读书会
 本仓库用于储存2025年《资本论》第三卷读书会相关资料。
