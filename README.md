@@ -5,7 +5,7 @@
 ## 关于[“读书会分次记录·资料”](https://github.com/BH4FVB/Das-Kapital-Volume-III/tree/main/%E8%AF%BB%E4%B9%A6%E4%BC%9A%E5%88%86%E6%AC%A1%E8%AE%B0%E5%BD%95%C2%B7%E8%B5%84%E6%96%99)文件夹
 文件夹中整理每次读书会的事前介绍或事后记录。请参加者时常确认。
 
-已更新[2025年9月21日第一次读书会的事前说明](https://github.com/BH4FVB/Das-Kapital-Volume-III/blob/main/%E8%AF%BB%E4%B9%A6%E4%BC%9A%E5%88%86%E6%AC%A1%E8%AE%B0%E5%BD%95%C2%B7%E8%B5%84%E6%96%99/20250921.md)。
+20250919已更新[2025年9月21日第一次读书会的事前说明](https://github.com/BH4FVB/Das-Kapital-Volume-III/blob/main/%E8%AF%BB%E4%B9%A6%E4%BC%9A%E5%88%86%E6%AC%A1%E8%AE%B0%E5%BD%95%C2%B7%E8%B5%84%E6%96%99/20250921.md)。
 
 ## 关于读书会
 - 文献：以《资本论》第三卷手稿为核心进行阅读。涉及内容：《全集》中文第二版39卷、40卷（上）。（MEGA<sup>2</sup>  II/4.2, II/4.3, 以及尚无中文版的II/14部分内容）。
