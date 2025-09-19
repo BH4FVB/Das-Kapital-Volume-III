@@ -1,6 +1,6 @@
 # 2025年《资本论》第三卷读书会资料库
 ## 下载说明
-请通过页面右侧的发行版（Releases）下载文献压缩包（zip）。MEGA.II.zip中是文件夹“MEGA<sup>2</sup> ”第II部门相关文献；CHN.zip中是《马克思恩格斯全集》中文第二版相关文献。
+请通过页面右侧的[发行版（Releases）](https://github.com/BH4FVB/Das-Kapital-Volume-III/releases/tag/20250919)下载文献压缩包（zip）。[MEGA.II.zip](https://github.com/BH4FVB/Das-Kapital-Volume-III/releases/tag/20250919#:~:text=5%20hours%20ago-,MEGA.II.zip,-sha256%3A5bf984da25f59ae63ab50cd6a5e5bf269ec3b89906358e6aa6860a92e736649c)中是文件夹“MEGA<sup>2</sup> ”第II部门相关文献；[CHN.zip](https://github.com/BH4FVB/Das-Kapital-Volume-III/releases/tag/20250919#:~:text=4-,CHN.zip,-sha256%3Aba9ef7aaf2f0fc166f77705b2c2b8fc7362a261c612a1354f6388a465ba5724a)中是《马克思恩格斯全集》中文第二版相关文献。
 
 ## 关于“读书会分次记录·资料”文件夹
 文件夹中整理每次读书会的事前介绍或事后记录。请参加者时常确认。
